@@ -38,8 +38,9 @@ yarn add --dev @chainlink/contracts // for importing purpose.
     - "./VRFCoordinatorV2Mock.sol" file
 
 - "deploy" folder
-  - "./01-deploy-lottery.js" file
   - "00-deploy-mocks.js" file
+  - "./01-deploy-lottery.js" file
+  - 99-update-front-end.js
 - .env
 - "helper-hardhat-config.js"
 - "utils" folder
