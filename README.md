@@ -25,7 +25,7 @@ yarn add --dev hardhat
 yarn hardhat // create an empty hardhat.config.js
 yarn add --dev @nomiclabs/hardhat-ethers@npm:hardhat-deploy-ethers ethers @nomiclabs/hardhat-etherscan @nomiclabs/hardhat-waffle chai ethereum-waffle hardhat hardhat-contract-sizer hardhat-deploy hardhat-gas-reporter prettier prettier-plugin-solidity solhint solidity-coverage dotenv // upto the dev to choose the tools/dependencies
 yarn add --dev @chainlink/contracts // for importing purpose.
- yarn add global hardhat-shorthand   // for hardhat shortform and autocompletion
+yarn add global hardhat-shorthand   // for hardhat shortform and autocompletion
 ```
 
 ## Create Folders and Files
